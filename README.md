@@ -151,6 +151,7 @@ Through our exploratory data analysis, we've identified key strategies for the n
 Our analysis has revealed that focusing on high-performing genres, optimizing budget allocation, strategically timing releases, and leveraging star power are crucial for success.
  
 By implementing these insights, the studio will be well-equipped to make informed decisions, ensuring profitability and a strong presence in the competitive film industry.
+![Filmska-preduzeca-1](https://github.com/user-attachments/assets/0d580aad-377e-4e23-9d57-2792b54bca22)
 
 
 
