@@ -26,6 +26,14 @@ Additionally, with many large players already dominating the industry, the studi
 
 The goal is to provide three concrete, actionable insights for the studio to maximize its box office revenue while minimizing financial risks and gaining a competitive edge. These insights should guide decisions regarding movie genre, budget allocation, cast selection, and strategic release timing.
 
+## Key questions to Answer
+1. How do ratings impact a movie’s success, and what ratings range is most common for successful films?
+metric success for
+2. What genres are consistently high-performing in terms of audience reception and revenue?
+3. How does the release date (e.g., season or month) influence a movie’s box office performance?
+4. What budget ranges are associated with profitable movies, and how does budget relate to revenue?
+5. What factors contribute to higher revenues, and how can these be optimized for future productions?
+
 ## Data Understanding
 
 The data for this analysis comes from multiple movie industry sources, including Box Office Mojo, IMDB, Rotten Tomatoes, The Movie DB, and The Numbers. 
