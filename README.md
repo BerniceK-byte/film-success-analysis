@@ -1,4 +1,5 @@
-"C:\Users\hp\OneDrive\Resimler\Saved Pictures\film production.jpg"
+![film production](https://github.com/user-attachments/assets/c701bc63-e9e1-4729-8087-095f5a1da7d5)
+
 # FILM SUCCESS ANALYSIS
 
 ## INTRODUCTION
