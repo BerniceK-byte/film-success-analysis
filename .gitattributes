@@ -1,3 +1,0 @@
-zippedData/im.db filter=lfs diff=lfs merge=lfs -text
-*.ipynb text eol=lf
-tn_imbd.csv filter=lfs diff=lfs merge=lfs -text
